@@ -7,7 +7,7 @@
 
 | # | Name | GitHub username |
 |---|---|---|
-| 1 | Khadija (Maintainer) | @dija040 |
+| 1 | Khadija Maraoui | @dija040 |
 | 2 | Name | @to-be-added |
 | 3 | Name | @to-be-added |
 | 4 | Name | @to-be-added |
